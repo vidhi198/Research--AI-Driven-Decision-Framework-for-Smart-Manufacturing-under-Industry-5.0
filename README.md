@@ -10,7 +10,7 @@ The study investigates how Artificial Intelligence (AI) maturity influences manu
 
 Using **Partial Least Squares Structural Equation Modeling (PLS-SEM)** in **SmartPLS**, the research develops and validates the **Smart Manufacturing Excellence Framework for Personalization (SMEF-P)**.
 
-Questionnaire link : https://docs.google.com/forms/d/e/1FAIpQLSe0-SrkmUd0Y4VBA6S0acrLiaQyrVTlkID9bMHEbuBbsA2nfg/viewform?usp=sharing&ouid=103903346094206592430
+Questionnaire form : https://docs.google.com/forms/d/e/1FAIpQLSe0-SrkmUd0Y4VBA6S0acrLiaQyrVTlkID9bMHEbuBbsA2nfg/viewform?usp=sharing&ouid=103903346094206592430
 
 ---
 
